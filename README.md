@@ -1,3 +1,5 @@
+This assignment was done as part of Nanyang Polytechnic's Data Structure and Algorithms module.
+
 The purpose of the Medicine Inventory System is to allow a pharmaceutical company to manage the Medicine Inventory in the Pharmacy. They can display, add, update and remove medicine record from the inventory, perform searching and sorting of records, and other additional features that improve the usefulness of the application for the user.
 
 <b>Medicine Inventory – Basic Features</b>
